@@ -1,0 +1,228 @@
+{
+    "groceries": [
+        {
+            "id": "01",
+            "name": "Apple",
+            "description": "Fresh and juicy apple",
+            "price": 1.5,
+            "amount": "per kg",
+            "is_available": true
+        },
+        {
+            "id": "02",
+            "name": "Banana",
+            "description": "Ripe and sweet banana",
+            "price": 0.5,
+            "amount": "per piece",
+            "is_available": true
+        },
+        {
+            "id": "03",
+            "name": "Milk",
+            "description": "Fresh cow milk",
+            "price": 2.0,
+            "amount": "per liter",
+            "is_available": true
+        },
+        {
+            "id": "04",
+            "name": "Bread",
+            "description": "Whole wheat bread",
+            "price": 1.8,
+            "amount": "per loaf",
+            "is_available": true
+        },
+        {
+            "id": "05",
+            "name": "Eggs",
+            "description": "Farm-fresh eggs",
+            "price": 3.0,
+            "amount": "per dozen",
+            "is_available": true
+        },
+        {
+            "id": "06",
+            "name": "Tomato",
+            "description": "Ripe red tomato",
+            "price": 1.2,
+            "amount": "per kg",
+            "is_available": true
+        },
+        {
+            "id": "07",
+            "name": "Potato",
+            "description": "Fresh and starchy potato",
+            "price": 1.0,
+            "amount": "per kg",
+            "is_available": true
+        },
+        {
+            "id": "08",
+            "name": "Chicken",
+            "description": "Skinless chicken breast",
+            "price": 5.0,
+            "amount": "per kg",
+            "is_available": true
+        },
+        {
+            "id": "09",
+            "name": "Rice",
+            "description": "Long grain basmati rice",
+            "price": 2.5,
+            "amount": "per kg",
+            "is_available": true
+        },
+        {
+            "id": "10",
+            "name": "Pasta",
+            "description": "Italian pasta",
+            "price": 1.0,
+            "amount": "per packet",
+            "is_available": true
+        },
+        {
+            "id": "11",
+            "name": "Onion",
+            "description": "Fresh and pungent onion",
+            "price": 1.0,
+            "amount": "per kg",
+            "is_available": true
+        },
+        {
+            "id": "12",
+            "name": "Carrot",
+            "description": "Crunchy carrot",
+            "price": 1.2,
+            "amount": "per kg",
+            "is_available": true
+        },
+        {
+            "id": "13",
+            "name": "Orange",
+            "description": "Juicy and tangy orange",
+            "price": 2.0,
+            "amount": "per kg",
+            "is_available": true
+        },
+        {
+            "id": "14",
+            "name": "Broccoli",
+            "description": "Nutritious broccoli",
+            "price": 2.5,
+            "amount": "per kg",
+            "is_available": true
+        },
+        {
+            "id": "15",
+            "name": "Cheese",
+            "description": "Creamy cheese",
+            "price": 3.0,
+            "amount": "per 100g",
+            "is_available": true
+        },
+        {
+            "id": "16",
+            "name": "Yogurt",
+            "description": "Thick and creamy yogurt",
+            "price": 1.5,
+            "amount": "per 500g",
+            "is_available": true
+        },
+        {
+            "id": "17",
+            "name": "Spinach",
+            "description": "Fresh spinach leaves",
+            "price": 1.0,
+            "amount": "per bunch",
+            "is_available": true
+        },
+        {
+            "id": "18",
+            "name": "Lemon",
+            "description": "Sour and citrusy lemon",
+            "price": 0.5,
+            "amount": "per piece",
+            "is_available": true
+        },
+        {
+            "id": "19",
+            "name": "Cucumber",
+            "description": "Cool and refreshing cucumber",
+            "price": 1.0,
+            "amount": "per kg",
+            "is_available": true
+        },
+        {
+            "id": "20",
+            "name": "Salmon",
+            "description": "Fresh salmon fillet",
+            "price": 10.0,
+            "amount": "per kg",
+            "is_available": true
+        },
+        {
+            "id": "21",
+            "name": "Ground Beef",
+            "description": "Lean ground beef",
+            "price": 7.0,
+            "amount": "per kg",
+            "is_available": true
+        },
+        {
+            "id": "22",
+            "name": "Bell Pepper",
+            "description": "Colorful bell pepper",
+            "price": 2.0,
+            "amount": "per kg",
+            "is_available": true
+        },
+        {
+            "id": "23",
+            "name": "Green Tea",
+            "description": "Refreshing green tea",
+            "price": 3.0,
+            "amount": "per box",
+            "is_available": true
+        },
+        {
+            "id": "24",
+            "name": "Olive Oil",
+            "description": "Extra virgin olive oil",
+            "price": 5.0,
+            "amount": "per 500ml",
+            "is_available": true
+        },
+        {
+            "id": "25",
+            "name": "Almonds",
+            "description": "Crunchy almonds",
+            "price": 4.0,
+            "amount": "per 200g",
+            "is_available": true
+        },
+        {
+            "id": "26",
+            "name": "Honey",
+            "description": "Pure honey",
+            "price": 6.0,
+            "amount": "per 500g",
+            "is_available": true
+        },
+        {
+            "id": "27",
+            "name": "Quinoa",
+            "description": "Nutritious quinoa",
+            "price": 4.0,
+            "amount": "per kg",
+            "is_available": true
+        },
+        {
+            "id": "28",
+            "name": "Avocado",
+            "description": "Creamy avocado",
+            "price": 2.0,
+            "amount": "per piece",
+            "is_available": true
+        }
+    ]
+}
