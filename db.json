@@ -5,7 +5,7 @@
             "name": "Apple",
             "description": "Fresh and juicy apple",
             "price": 1.5,
-            "amount": "per kg",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -13,7 +13,7 @@
             "name": "Banana",
             "description": "Ripe and sweet banana",
             "price": 0.5,
-            "amount": "per piece",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -21,7 +21,7 @@
             "name": "Milk",
             "description": "Fresh cow milk",
             "price": 2.0,
-            "amount": "per liter",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -29,15 +29,15 @@
             "name": "Bread",
             "description": "Whole wheat bread",
             "price": 1.8,
-            "amount": "per loaf",
-            "is_available": true
+            "amount": "1",
+            "is_available": false
         },
         {
             "id": "05",
             "name": "Eggs",
             "description": "Farm-fresh eggs",
             "price": 3.0,
-            "amount": "per dozen",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -45,15 +45,15 @@
             "name": "Tomato",
             "description": "Ripe red tomato",
             "price": 1.2,
-            "amount": "per kg",
-            "is_available": true
+            "amount": "1",
+            "is_available": false
         },
         {
             "id": "07",
             "name": "Potato",
             "description": "Fresh and starchy potato",
             "price": 1.0,
-            "amount": "per kg",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -61,7 +61,7 @@
             "name": "Chicken",
             "description": "Skinless chicken breast",
             "price": 5.0,
-            "amount": "per kg",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -69,7 +69,7 @@
             "name": "Rice",
             "description": "Long grain basmati rice",
             "price": 2.5,
-            "amount": "per kg",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -77,7 +77,7 @@
             "name": "Pasta",
             "description": "Italian pasta",
             "price": 1.0,
-            "amount": "per packet",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -85,7 +85,7 @@
             "name": "Onion",
             "description": "Fresh and pungent onion",
             "price": 1.0,
-            "amount": "per kg",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -93,7 +93,7 @@
             "name": "Carrot",
             "description": "Crunchy carrot",
             "price": 1.2,
-            "amount": "per kg",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -101,7 +101,7 @@
             "name": "Orange",
             "description": "Juicy and tangy orange",
             "price": 2.0,
-            "amount": "per kg",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -109,15 +109,15 @@
             "name": "Broccoli",
             "description": "Nutritious broccoli",
             "price": 2.5,
-            "amount": "per kg",
-            "is_available": true
+            "amount": "1",
+            "is_available": false
         },
         {
             "id": "15",
             "name": "Cheese",
             "description": "Creamy cheese",
             "price": 3.0,
-            "amount": "per 100g",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -125,7 +125,7 @@
             "name": "Yogurt",
             "description": "Thick and creamy yogurt",
             "price": 1.5,
-            "amount": "per 500g",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -133,7 +133,7 @@
             "name": "Spinach",
             "description": "Fresh spinach leaves",
             "price": 1.0,
-            "amount": "per bunch",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -141,15 +141,15 @@
             "name": "Lemon",
             "description": "Sour and citrusy lemon",
             "price": 0.5,
-            "amount": "per piece",
-            "is_available": true
+            "amount": "1",
+            "is_available": false
         },
         {
             "id": "19",
             "name": "Cucumber",
             "description": "Cool and refreshing cucumber",
             "price": 1.0,
-            "amount": "per kg",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -157,7 +157,7 @@
             "name": "Salmon",
             "description": "Fresh salmon fillet",
             "price": 10.0,
-            "amount": "per kg",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -165,7 +165,7 @@
             "name": "Ground Beef",
             "description": "Lean ground beef",
             "price": 7.0,
-            "amount": "per kg",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -173,7 +173,7 @@
             "name": "Bell Pepper",
             "description": "Colorful bell pepper",
             "price": 2.0,
-            "amount": "per kg",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -181,7 +181,7 @@
             "name": "Green Tea",
             "description": "Refreshing green tea",
             "price": 3.0,
-            "amount": "per box",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -189,7 +189,7 @@
             "name": "Olive Oil",
             "description": "Extra virgin olive oil",
             "price": 5.0,
-            "amount": "per 500ml",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -197,7 +197,7 @@
             "name": "Almonds",
             "description": "Crunchy almonds",
             "price": 4.0,
-            "amount": "per 200g",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -205,7 +205,7 @@
             "name": "Honey",
             "description": "Pure honey",
             "price": 6.0,
-            "amount": "per 500g",
+            "amount": "1",
             "is_available": true
         },
         {
@@ -213,15 +213,15 @@
             "name": "Quinoa",
             "description": "Nutritious quinoa",
             "price": 4.0,
-            "amount": "per kg",
-            "is_available": true
+            "amount": "1",
+            "is_available": false
         },
         {
             "id": "28",
             "name": "Avocado",
             "description": "Creamy avocado",
             "price": 2.0,
-            "amount": "per piece",
+            "amount": "1",
             "is_available": true
         }
     ]
